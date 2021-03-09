@@ -1,0 +1,23 @@
+input[name='up']{
+    display: none;
+}
+
+input[name='down']{
+    display: none;
+}
+input[type="button"]{
+    background-color: initial;
+}
+label{
+    border: solid;
+}
+body{
+    zoom: 250%;
+}
+img{
+    height: 10px;
+    width: 10px;
+
+    margin-left: 100px;
+    margin-top: -26px;
+}
